@@ -1,0 +1,71 @@
+.navbar-nav {
+    font-size: larger;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+
+body {
+    background-image: url('https://www.creativefabrica.com/wp-content/uploads/2021/10/29/Abstract-Watercolor-Background-Design-Graphics-19383755-1.jpg');
+    background-size: auto;
+}  
+
+a {
+    color: black;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+    flex: content;
+    opacity: 0.7;
+}
+
+.bio {
+    padding: 30px;
+    margin: 30px;
+    border: 20px;
+    justify-content: center;
+    opacity: 0.7;
+    background-color: plum;
+    border-radius: 150px 150px 150px 150px;
+}
+
+img {
+    margin: 30px;
+    width: 300px;
+    height: 350px;
+    background-color: plum;
+    opacity: 0.9;
+    padding: 30px;
+    border: 20px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.image1 {
+    display: flex;
+    justify-content: center;
+}
+
+.thanks {
+    padding: 30px;
+    margin: 30px;
+    border: 20px;
+    justify-content: center;
+    opacity: 0.7;
+    background-color: plum;
+    border-radius: 50px 50px 50px 50px;
+}
+
+
+
+
+
+
+
+
